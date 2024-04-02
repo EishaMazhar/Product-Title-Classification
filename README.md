@@ -20,4 +20,6 @@ Test Data Size: 5, 528
 
 ## Reference Paper
 
+https://github.com/EishaMazhar/Product-Title-Classification/blob/master/Product%20Title%20vs%20text%20classifictaion.pdf
+
 
